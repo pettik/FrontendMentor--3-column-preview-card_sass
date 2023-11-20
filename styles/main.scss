@@ -3,7 +3,6 @@
 // Import partials
 @import 'variables';
 @import 'box-styles';
-@import 'queries';
 
 // Import external font
 @import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700&family=Lexend+Deca&display=swap');
@@ -64,3 +63,5 @@ body {
 .attribution {
   display: none;
 }
+
+@import 'queries';

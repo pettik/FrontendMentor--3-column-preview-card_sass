@@ -25,16 +25,6 @@
   color: hsl(179, 100%, 13%);
 }
 
-@media screen and (max-width: 768px) {
-  .wrapper {
-    grid-template-columns: 1fr;
-  }
-}
-@media screen and (max-width: 425px) {
-  .wrapper {
-    margin: 1rem 0.5rem;
-  }
-}
 body {
   background-color: hsl(0, 0%, 95%);
   min-height: 100vh;
@@ -89,6 +79,17 @@ body {
 
 .attribution {
   display: none;
+}
+
+@media screen and (max-width: 425px) {
+  .wrapper {
+    margin: 1rem 0.5rem;
+  }
+}
+@media screen and (max-width: 768px) {
+  .wrapper {
+    grid-template-columns: 1fr;
+  }
 }
 
 /*# sourceMappingURL=style.css.map */
