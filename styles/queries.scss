@@ -1,0 +1,13 @@
+// queries.scss
+
+@media screen and (max-width: 768px) {
+  .wrapper {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .wrapper {
+    margin: 1rem 0.5rem;
+  }
+}
