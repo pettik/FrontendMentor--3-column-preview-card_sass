@@ -27,7 +27,7 @@ This challenge was perfect of me, because I was just getting started. The shift 
 
 ### Screenshot
 
-![](./design/desktop-preview.jpg)
+![](./design/3-columns-screenshot.jpg)
 
 ### Links
 
